@@ -1,0 +1,12 @@
+[
+  {"name":"Margherita Pizza","description":"Classic pizza with tomato, mozzarella and basil.","category":"Pizza","price":299,"is_available":true},
+  {"name":"Farmhouse Pizza","description":"Vegetarian pizza with onion, capsicum, tomato and cheese.","category":"Pizza","price":349,"is_available":true},
+  {"name":"Chicken Tikka Pizza","description":"Pizza topped with chicken tikka, onion and cheese.","category":"Pizza","price":399,"is_available":true},
+  {"name":"Chicken Burger","description":"Grilled chicken patty with lettuce, tomato and house sauce.","category":"Burger","price":249,"is_available":true},
+  {"name":"Veg Burger","description":"Crispy vegetarian patty with lettuce, tomato and house sauce.","category":"Burger","price":199,"is_available":true},
+  {"name":"French Fries","description":"Crispy salted potato fries.","category":"Sides","price":129,"is_available":true},
+  {"name":"Cheese Fries","description":"French fries topped with creamy cheese sauce.","category":"Sides","price":169,"is_available":true},
+  {"name":"Coke","description":"Chilled Coca-Cola soft drink.","category":"Beverage","price":60,"is_available":true},
+  {"name":"Cold Coffee","description":"Chilled creamy coffee beverage.","category":"Beverage","price":140,"is_available":true},
+  {"name":"Chocolate Brownie","description":"Warm chocolate brownie dessert.","category":"Dessert","price":159,"is_available":true}
+]
